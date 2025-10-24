@@ -1,3 +1,12 @@
+
+### NOTE:
+
+*This is a pre-released project repository. The "to-do" list is available in the [TODO.md](TODO.md) file. Feel free to contribute or reach out if there are any specific topics you'd like the Playdate Guides to cover!*
+
+The first item on the list is to reformat this welcome page. Updates coming next week!
+
+-- Franchovy, 24 Oct 2025
+
 # Project Title
 
 ## Subtitle
