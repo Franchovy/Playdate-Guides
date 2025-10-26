@@ -2,9 +2,9 @@
 
 _This is a pre-released project repository. The "to-do" list is available in the [TODO.md](TODO.md) file. Feel free to contribute or reach out if there are any specific topics you'd like the Playdate Guides to cover!_
 
-The first item on the list is to reformat this welcome page. Updates coming next week!
+More updates coming this week!
 
--- Franchovy, 24 Oct 2025
+-- Franchovy, last updated 26 Oct 2025
 
 # Playdate Guides
 
@@ -35,7 +35,7 @@ _Take a look at [Contributing](Contributing.md) if you want to suggest a topic o
 
 ## Introduction
 
-The Playdate Console is a handheld retro-style console created by Panic, Inc., a U.S. software and games company based in Seatle. What sets it apart from other modern consoles is its unforgiving 240x400-pixel (un-backlit) screen, it's simple control scheme, and it's smooth _crank_.
+The Playdate Console is a handheld retro-style console created by Panic, Inc., a U.S. software and games company based in Portland, Oregon. What sets it apart from other modern consoles is its unforgiving 240x400-pixel (un-backlit) screen, it's simple control scheme, and it's smooth _crank_.
 
 But honestly, who are we kidding, you're probably familiar with the Playdate if you're here. Let me just say - **it's an amazing platform for learning game and software development**. I personally would have rather paid for the playdate and spent a year making games in different programming languages over a 3-year computer science bachelor's degree, but hey, _that's just like, my opinion, man._
 
