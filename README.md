@@ -83,6 +83,8 @@ The other recommended pieces of software to have are:
 
 `"workspace.library": ["/Users/peter/code/playdate-luacats"]`
 
+[**Full LuaCATS Setup Guide Here**](Guides/Setup-LuaCATS.md)
+
 **_Highly Recommended for VSCode/VCodium:_**
 
 **Extensions for VSCode/VSCodium** will help you turn the IDE from a basic text editor into a fully-featured software development platform. If you've got VSCode open, feel free to just type in the following keywords and it should be the first recommendation to show up; no need to go through the link/website.
@@ -99,7 +101,7 @@ Although not strictly necessary, these extensions are gems I've come across in m
 
 - **[Git Graph by mhutchie](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)** - Super useful to have a visual for your projects in Git. Allows for all sorts of git-kung-fu (gung-fu?) that otherwise can be hard to visualize... _and please do NOT install github desktop... just don't..._
 
-- **[Error Lens by Alexander](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)** - If your eyes are failing due to looking extensively at a non-backlit 240x400 black & white screen in poor lighting conditions, you might want this extra bit of highlighting for your errors, comments and warnings in your project. Makes them super easy to spot when you need to... and hard to ignore when you try to! *(Great way to start learning LuaCATS! ...You'll see what I mean...)*
+- **[Error Lens by Alexander](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)** - If your eyes are failing due to looking extensively at a non-backlit 240x400 black & white screen in poor lighting conditions, you might want this extra bit of highlighting for your errors, comments and warnings in your project. Makes them super easy to spot when you need to... and hard to ignore when you try to! _(Great way to start learning LuaCATS! ...You'll see what I mean...)_
 
 - **[Prettier - Code Formatter by prettier.io](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)** - Although not necessary for lua files, JSON does tend to be the second most common file type out there for Playdate projects. And pretty JSON is WAYY nicer than "not pretty" JSON, just check out [this random example](https://devforum.play.date/manifest.webmanifest) by toggling "Pretty Print" to see the difference.
 
@@ -109,6 +111,8 @@ Although not strictly necessary, these extensions are gems I've come across in m
 ## Get Started with Playdate
 
 ### Your first game
+
+[**Full Guide Here**](Guides/Setup.md)
 
 Now that you've got all the requirements up and running, let's create our first game!
 
@@ -208,7 +212,7 @@ Now, your project should look like this:
 │   ├── main.lua
 ```
 
-Ok, *NOW* let's write some code!
+Ok, _NOW_ let's write some code!
 
 Open up `main.lua` and type out:
 
@@ -235,8 +239,9 @@ If you're all clear, then you can navigate to **[your first sprite tutorial](Gui
 ### Your N+1 game
 
 Now that you know how to create your game from scratch, you can choose between the following options to start your next project:
+
 1. Repeat the same steps as before, perhaps doing it mindfully every day can be good for your mental health.
-2. Copy and paste the previous project, erasing extra files and changing variables, but risk forgetting to that one variable in the `pdxinfo` and accidentally overwrite 3 years of coding progress  (jk you can do it if you want)
+2. Copy and paste the previous project, erasing extra files and changing variables, but risk forgetting to that one variable in the `pdxinfo` and accidentally overwrite 3 years of coding progress (jk you can do it if you want)
 3. Download a template from a git repository such as [Whitebrim's VSCode Template](https://github.com/Whitebrim/VSCode-PlaydateTemplate) with a simple `git clone https://github.com/Whitebrim/VSCode-PlaydateTemplate` and rename the files in the `pdxinfo` and change whatever you like, 'cause it's your project now.
 
 Honestly I usually go with option 1 or 2, as they are really not difficult to do yourself. Option 3 usually requires a bit of tweaking to get it working as you like, so perhaps you can save the early-stage project by uploading it with git and that way you have your own template, perfect for your own needs!

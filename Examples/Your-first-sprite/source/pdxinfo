@@ -1,0 +1,6 @@
+name=My First Game
+author=Your Name Here
+description=Mom, my first game is here!!
+bundleID=io.mybrand.myfirstgame
+version=0.0.1
+buildNumber=1
