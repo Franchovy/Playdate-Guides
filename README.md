@@ -1,10 +1,10 @@
 ### NOTE:
 
-_This is a pre-released project repository. The "to-do" list is available in the [TODO.md](TODO.md) file. Feel free to contribute or reach out if there are any specific topics you'd like the Playdate Guides to cover!_
+_This is an early-release project repository. The "to-do" list is available in the [TODO.md](TODO.md) file. Feel free to contribute or reach out if there are any specific topics you'd like the Playdate Guides to cover!_
 
-More updates coming this week!
+**More updates coming every week!**
 
--- Franchovy, last updated 26 Oct 2025
+-- Franchovy, last updated 31 Oct 2025 🎃
 
 # Playdate Guides
 
