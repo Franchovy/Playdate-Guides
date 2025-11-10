@@ -14,7 +14,7 @@
 
 ### Meta-Programming
 
-- [ ] Using LuaCATS for Playdate
+- [x] Using LuaCATS for Playdate
 - [ ] Notes on advanced usage
 - [ ] Using & Creating libraries
 - [ ] File Management & Naming conventions
