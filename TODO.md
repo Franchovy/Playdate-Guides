@@ -7,6 +7,11 @@
 - [x] Debugging with VSCode or Codium
 - [x] Setting up type checking & autocompletion
 
+### Game architecture
+
+- [ ] Loading screens
+- [ ] Restarting a game
+
 ### Meta-Programming
 
 - [ ] Using LuaCATS for Playdate
@@ -21,6 +26,9 @@
 - [x] Creating your first sprite
 - [ ] Drawing text to screen
 - [ ] Manipulating images
+- [ ] Easing functions
+- [ ] Synths
+- [ ] Collision Groups
 
 ### External Tools & Libraries
 
