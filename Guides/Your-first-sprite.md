@@ -49,7 +49,7 @@ end
 
 ## Adding a sprite
 
-Start by creating a folder called `assets` **inside of `source`** and adding the [**following image**](Materials/Your-first-sprite/ship.png) to it.
+Start by creating a folder called `assets` **inside of `source`** and adding the [**following image**](/Materials/Your-first-sprite/ship.png) to it.
 
 Your project should look like this:
 

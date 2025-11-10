@@ -225,7 +225,7 @@ That's your first "import" statement, meaning you're telling Lua to include all 
 Then, write the following:
 
 ```lua
-playdate.update()
+function playdate.update()
     print("Hello World")
 end
 ```
