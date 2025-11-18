@@ -40,6 +40,6 @@
 ### Advanced Lua Usage
 
 - [ ] Lua Basics - just so we're all on the same "table".
-- [ ] Metatables
+- [x] Metatables
 - [ ] Coroutines
 - [ ] Interaction with C API
