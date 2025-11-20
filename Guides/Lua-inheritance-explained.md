@@ -8,9 +8,9 @@ Well, you've come to the right place, my friend. Scroll down and join the dark s
 
 ### How does inheritance work in Lua?
 
-First, the basics. Lua doesn't have any fancy object-oriented-style programming, so basically you have to program it yourself. Thankfully, it _does_ have a built-in inheritance mechanism, on which we can base our implementation.
+First, the basics. Lua, by default, doesn't have any of the fancy object-oriented syntax like other languages where you can create and extend classes. In Lua, the built-in mechanism is much simpler, and it's up to you how you use it. Luckily, the Playdate SDK provides us with an implementation that we'll take a deeper look at after covering the basics, which are the ones offered by the Lua language itself.
 
-Rather than explaining, it's better to lead by example.
+Rather than explaining the details, let's take a look at some examples.
 
 #### Example 1: Basic inheritance
 
@@ -28,9 +28,9 @@ end
 local table2 = {}
 
 -- Step 3: Lua hand-wavey woo-woo magic trick!!
-setmetatable(table2, { __index = table1 })
+setmetatable(table2, { __index = parentTable })
 
--- Result: table2 can now perform what table1 can.
+-- Result: table2 can now perform what parentTable can.
 table2.testPrint()
 ```
 

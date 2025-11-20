@@ -1,8 +1,8 @@
 # Adding Multiple Inheritance
 
-So, you've fully converted to the dark side. You're sick of having 14 superclasses that have nothing to do with each other and want to directly inherit from the 6 of those 14 superclasses.
+So, you've fully converted to the dark side. You want to inherit from 3 different superclasses without them being dependent on each other.
 
-Well, that's great. Inheritance trees can get messy if you're not careful. And Lua's [inheritance](./Lua-inheritance-explained.md) is super simple, so we can easily get around the Playdate SDK's limitations and add what you're here for... _multiple inheritance_.
+Well, you've come to the right place. Inheritance trees can get messy if you're not careful. And Lua's [inheritance](./Lua-inheritance-explained.md) is super simple, so we can easily get around the Playdate SDK's limitations and add what you're here for... _multiple inheritance_.
 
 ### Trade-offs
 
